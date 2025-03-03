@@ -11,7 +11,8 @@ Estoy aprendiendo japonés y busco mejorar día a día en programación y resolu
 
 🎯 **Proyectos destacados**  
 - 🚗 **Driftocar**: ERP y CRM para gestionar alquileres de vehículos temáticos.  
-- 🏠 **PawaHausu**: Prototipo para la gestión de almacenes de productos online.  
+- 🏠 **PawaHausu**: Prototipo para la gestión de almacenes de productos online.
+- 🎮 **GameDex**: Aplicación para gestionar y catalogar videojuegos.
 
 📫 **Contacto**  
 - 📧 **Email**: ymeleromaldonado@gmail.com  

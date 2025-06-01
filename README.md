@@ -14,6 +14,7 @@ Estoy aprendiendo japonés y busco mejorar día a día en programación y resolu
 - 🏠 **PawaHausu**: Prototipo para la gestión de almacenes de productos online.
 - 🎮 **GameDex**: Aplicación para gestionar y catalogar videojuegos.
 - 🎮 **Outlocked**: Videojuego hecho con Unity sobre escapar de una casa.
+- 🚲 **EntreBicis**: Aplicación que permite guardar rutas, convertir los km realizados en puntos y canjearlos por recompensas + web de adiminstrador para su gestión.
   
 📫 **Contacto**  
 - 📧 **Email**: ymeleromaldonado@gmail.com  

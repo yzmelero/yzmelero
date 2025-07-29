@@ -20,6 +20,7 @@ He terminado recientemente el grado superior y tengo muchas ganas de empezar con
 
 > Puedes cotillear los proyectos, todos los que he hecho están disponibles en los repositorios públicos.
 
+
 📫 **Contacto**  
 - 📧 **Email**: ymeleromaldonado@gmail.com  
 - 🌐 **LinkedIn**: [Yaiza Melero](https://www.linkedin.com/in/yaiza-m-0722632a2/)  

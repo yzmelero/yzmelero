@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Yaiza Melero 🌙
+# ¡Hola! Soy Yaiza Melero 🌙
 
 💻 **Desarrolladora en formación**  
 
@@ -17,9 +17,6 @@ He terminado recientemente el grado superior y tengo muchas ganas de empezar con
 - 🎮 **GameDex**: Aplicación para gestionar y catalogar videojuegos.
 - 🎮 **Outlocked**: Videojuego hecho con Unity sobre escapar de una casa.
 - 🚲 **EntreBicis**: Aplicación que permite guardar rutas, convertir los km realizados en puntos y canjearlos por recompensas + web de adiminstrador para su gestión.
-
-> Puedes cotillear los proyectos, todos los que he hecho están disponibles en los repositorios públicos.
-
 
 📫 **Contacto**  
 - 📧 **Email**: ymeleromaldonado@gmail.com  

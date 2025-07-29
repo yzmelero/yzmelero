@@ -4,9 +4,9 @@
 Finalizando un grado superior en desarrollo de aplicaciones multiplataforma.  
 
 🎸 **Un poco sobre mí**   
-🎮 Disfruto mucho de los videojuegos narrativos como Life is Strange, Detroit: Become Human y Gris, donde las decisiones importan tanto como la historia.
-🈴 Me flipa aprender idiomas y entender otras formas de ver el mundo; ahora mismo estoy estudiando japonés por pasión.
-📈 En constante mejora de mis habilidades en programación, especialmente en desarrollo backend (aunque también me gusta mucho tocar el frontend y dejar bonitas las cosas), interfaces gráficas y resolución de errores técnicos.
+🎮 Disfruto mucho de los videojuegos narrativos como Life is Strange, Detroit: Become Human y Gris, donde las decisiones importan tanto como la historia.     
+🈴 Me flipa aprender idiomas y entender otras formas de ver el mundo; ahora mismo estoy estudiando japonés por pasión.        
+📈 En constante mejora de mis habilidades en programación, especialmente en desarrollo backend (aunque también me gusta mucho tocar el frontend y dejar bonitas las cosas), interfaces gráficas y resolución de errores técnicos.     
 
 🎯 **Proyectos destacados**  
 - 🚗 **Driftocar**: ERP y CRM para la gestión de alquileres de vehículos temáticos.

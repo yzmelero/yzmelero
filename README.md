@@ -9,7 +9,7 @@ He terminado recientemente el grado superior y tengo muchas ganas de empezar con
 - 🎮 Disfruto mucho de los videojuegos narrativos como Life is Strange, Detroit: Become Human y Gris, donde las decisiones importan tanto como la historia. 
 - 🎵 También me encanta la música: toco el piano, la guitarra y el ukelele cuando quiero desconectar o inspirarme. 
 - 🈴 Me flipa aprender idiomas y entender otras formas de ver el mundo; ahora mismo estoy estudiando japonés por pasión. 
-- 📈 En constante mejora de mis habilidades en programación, especialmente en desarrollo backend (aunque también me gusta mucho tocar el frontend y dejar bonitas las cosas), interfaces gráficas y resolución de errores técnicos. 
+- 📈 En constante mejora de mis habilidades en programación, especialmente en desarrollo backend aunque disfruto trasteando en el frontend y haciendo interfaces chulas. Me gusta entender cómo funcionan las cosas por dentro y encontrar soluciones cuando algo peta.
 
 🎯 **Proyectos destacados**  
 - 🚗 **Driftocar**: ERP y CRM para la gestión de alquileres de vehículos temáticos.

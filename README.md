@@ -1,4 +1,4 @@
-# ¡Hola! Soy Yaiza Melero 🌙
+# ¡Hola! Soy Yaiza Melero 
 
 💻 **Desarrolladora en formación**  
 

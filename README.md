@@ -1,6 +1,6 @@
-# ¡Hola! Soy Yaiza Melero 
+# Hola, Soy Yaiza Melero :)
 
-💻 **Desarrolladora de aplicaciones multiplataforma**  
+💻 **Desarrolladora de Aplicaciones Multiplataforma** 💻
 
 He terminado recientemente el grado superior y tengo muchas ganas de empezar con proyectos reales. Me gusta entender cómo funciona todo por dentro, resolver problemas y dejar las cosas bien hechas (y bonitas, si se puede 😌).
 
